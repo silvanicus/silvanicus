@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Silvana
-📍 Medellìn
+📍 Medellìn | Colombia
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Silvana-Ramirez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvanaramvel)
+[Linkedin](https://www.linkedin.com/in/silvanaramvel/)
+[Instagram](https://www.instagram.com/silvanicus)
 
 <!--
 **silvanicus/silvanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
