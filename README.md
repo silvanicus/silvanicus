@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Silvana
+📍 Medellìn
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Silvana-Ramirez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvanaramvel)
 
 <!--
 **silvanicus/silvanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
